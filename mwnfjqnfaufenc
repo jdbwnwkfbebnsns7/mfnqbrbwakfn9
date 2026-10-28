@@ -1019,9 +1019,9 @@ BackgroundImage.Parent = MainFrame
 BackgroundImage.Size = UDim2.new(1, 0, 1, 0)
 BackgroundImage.Position = UDim2.new(0, 0, 0, 0)
 BackgroundImage.BackgroundTransparency = 1
-BackgroundImage.Image = "rbxassetid://90848618256857"
+BackgroundImage.Image = "rbxassetid://84827497264188"
 BackgroundImage.ScaleType = Enum.ScaleType.Crop
-BackgroundImage.ImageTransparency = 0.15
+BackgroundImage.ImageTransparency = 0.23
 BackgroundImage.ZIndex = 0
 BackgroundImage.Active = false
 
