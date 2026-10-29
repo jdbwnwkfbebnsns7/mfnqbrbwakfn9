@@ -1021,7 +1021,7 @@ BackgroundImage.Position = UDim2.new(0, 0, 0, 0)
 BackgroundImage.BackgroundTransparency = 1
 BackgroundImage.Image = "rbxassetid://104416738694306"
 BackgroundImage.ScaleType = Enum.ScaleType.Crop
-BackgroundImage.ImageTransparency = 0.7
+BackgroundImage.ImageTransparency = 0.23
 BackgroundImage.ZIndex = 0
 BackgroundImage.Active = false
 
