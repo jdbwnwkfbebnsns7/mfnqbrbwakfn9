@@ -144,8 +144,7 @@ local redzlib = {
 
         ["info"] = "rbxassetid://10723415903", ["warning"] = "rbxassetid://10709753149", ["error"] = "rbxassetid://10747383819",
 
-        ["success"] = "rbxassetid://10709790387", ["question"] = "rbxassetid://10723406988", ["refresh"] = "rbxassetid://10734933056",
-
+        ["success"] = "rbxassetid://10709790387", ["question"] = "rbxassetid://10723406988", ["suggestion"] = "rbxassetid://10723406988", ["refresh"] = "rbxassetid://10734933056",
         ["power"] = "rbxassetid://10734930466", ["logout"] = "rbxassetid://10723434906", ["discord"] = "rbxassetid://10709789960",
 
         ["twitter"] = "rbxassetid://10709789960", ["github"] = "rbxassetid://10709797725", ["youtube"] = "rbxassetid://10723398002",
