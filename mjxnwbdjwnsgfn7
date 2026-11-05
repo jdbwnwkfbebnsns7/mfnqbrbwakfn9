@@ -118,7 +118,7 @@ local redzlib = {
 
     Icons = {
 
-        ["settings"] = "rbxassetid://10734950309", ["user"] = "rbxassetid://10747373176", ["home"] = "rbxassetid://10723407389" ["suggestion"] = "rbxassetid://10723406988",
+        ["settings"] = "rbxassetid://10734950309", ["user"] = "rbxassetid://10747373176", ["home"] = "rbxassetid://10723407389",
 
         ["search"] = "rbxassetid://10734943674", ["plus"] = "rbxassetid://10734924532", ["minus"] = "rbxassetid://10734896206",
 
